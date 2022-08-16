@@ -14,3 +14,6 @@ hugo.linux
 
 # Workspace file
 *.code-workspace
+
+# MacOS
+.DS_Store

@@ -16,5 +16,7 @@ content : |
 # button:
 #   label : "Get Started"
 #   link : "#first"
-image : "images/markus-traber.jpg"
+# image : "images/markus-traber_0_01.jpg"
+# image : "images/markus-traber_1_02.jpg"
+image : "images/markus-traber_1_03.jpg"
 

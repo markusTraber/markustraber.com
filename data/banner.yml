@@ -4,11 +4,12 @@ title : "Markus Traber"
 subtitle: |
   Software Developer & Creative Technologist
 content : |
-  <p>Co-founder of <strong><a href="https://farvel.space" target="_blank">farvel</a></strong>, a 3D virtual space of farewell and remembrance for a deceased loved one. Furthermore part of the collective <strong><a href="https://fuchsteufels.de" target="_blank">fuchsteufels</a></strong> for audiovisual creations.</p>
+  <p>Co-founder of <strong><a href="https://ternaty.com" target="_blank">ternaty</a></strong>, a 3D virtual space for your customized digital event. Furthermore part of the collective <strong><a href="https://fuchsteufels.de" target="_blank">fuchsteufels</a></strong> for audiovisual creations.</p>
     <ul class="icons">
       <li><a href="mailto:hi@markustraber.com" class="icon solid style1 fa-at"><span class="label" target="_blank">Mail</span></a></li>
       <li><a href="https://github.com/markusTraber" class="icon brands style1 fa-github"><span class="label" target="_blank">Github</span></a></li>
       <li><a href="https://www.linkedin.com/in/markus-traber-349981193" class="icon brands style1 fa-linkedin"><span class="label" target="_blank">LinkedIn</span></a></li>
+      <li><a rel="me" href="https://mastodon.social/@markusTraber" class="icon brands style1 fa-mastodon"><span class="label" target="_blank">Mastodon</span></a></li>
       <li><a href="https://www.instagram.com/markus_traber/" class="icon brands style1 fa-instagram"><span class="label" target="_blank">Instagram</span></a></li>
   </ul>
   <p>More coming soon.</p>

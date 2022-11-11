@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [Params]
   description = ""
   logo = "images/banner.jpg"
-  favicon = false
+  favicon = true
 
 [Params.social]
   github = "https://github.com/markusTraber"

@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <path d="M32,8C32,3.585 28.415,0 24,0L8,0C3.585,0 0,3.585 0,8L0,24C0,28.415 3.585,32 8,32L24,32C28.415,32 32,28.415 32,24L32,8Z" style="fill:white;"/>
-    <g transform="matrix(1.08531,0,0,1.08531,-1.36492,-0.279609)">
-        <g transform="matrix(1,0,0,1,5.84917,-0.463886)">
-            <circle cx="10.151" cy="8.98" r="5.849" style="fill:rgb(51,51,51);"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-1.6348,12.5041)">
-            <circle cx="10.151" cy="8.98" r="5.849" style="fill:rgb(51,51,51);"/>
-        </g>
-        <g transform="matrix(1,0,0,1,13.3331,12.5041)">
-            <circle cx="10.151" cy="8.98" r="5.849" style="fill:rgb(51,51,51);"/>
-        </g>
-    </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="512.000000pt" height="512.000000pt" viewBox="0 0 512.000000 512.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.14, written by Peter Selinger 2001-2017
+</metadata>
+<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M1827 4452 c-9 -15 -1198 -3645 -1195 -3647 6 -6 452 -144 455 -141
+7 7 1195 3647 1191 3651 -2 2 -98 33 -213 70 -116 36 -215 68 -222 70 -7 2
+-14 1 -16 -3z"/>
+<path d="M3436 2634 c-329 -1004 -596 -1827 -594 -1829 5 -6 451 -145 454
+-142 5 6 1195 3650 1192 3652 -2 3 -367 119 -433 139 -19 5 -63 -127 -619
+-1820z"/>
+</g>
 </svg>

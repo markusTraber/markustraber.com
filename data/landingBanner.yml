@@ -2,14 +2,17 @@
 style: "style3 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "markus_traber"
 subtitle: |
-  Software Developer & Creative Technologist
+  Software Developer & Creative Technologist<br />
+  Full-Stack || Web || Consulting
 content : |
+  <!-- <p>This is a test sentence</p> -->
+  <a href="mailto:hi@markustraber.com" class="button small icon regular fa-comments">Discuss your project with me</a>
+  
   <ul class="icons">
       <li><a href="mailto:hi@markustraber.com" class="icon solid style1 fa-at"><span class="label" target="_blank">Mail</span></a></li>
       <li><a href="https://github.com/markusTraber" class="icon brands style1 fa-github"><span class="label" target="_blank">Github</span></a></li>
       <li><a href="https://www.linkedin.com/in/markus-traber-349981193" class="icon brands style1 fa-linkedin"><span class="label" target="_blank">LinkedIn</span></a></li>
       <li><a rel="me" href="https://mastodon.social/@markusTraber" class="icon brands style1 fa-mastodon"><span class="label" target="_blank">Mastodon</span></a></li>
-      <li><a href="https://www.instagram.com/markus_traber/" class="icon brands style1 fa-instagram"><span class="label" target="_blank">Instagram</span></a></li>
   </ul>
 
 # button:
@@ -19,3 +22,4 @@ content : |
 # image : "images/markus-traber_1_02.jpg"
 image : "images/markus-traber_1_03.jpg"
 
+# <li><a href="https://www.instagram.com/markus_traber/" class="icon brands style1 fa-instagram"><span class="label" target="_blank">Instagram</span></a></li>

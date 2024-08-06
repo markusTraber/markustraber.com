@@ -4,8 +4,9 @@
 @import 'libs/vendor';
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
+@import 'custom.scss';
 @import 'fontawesome-all.min.css';
-@import 'source-sans-pro.css';
+@import '../assets/css/fonts.css'; // load fonts
 // @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i');
 
 /*

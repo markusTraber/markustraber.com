@@ -53,3 +53,12 @@
        url('../webfonts/source-sans-pro-v21-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../webfonts/source-sans-pro-v21-latin-italic.svg#SourceSansPro') format('svg'); /* Legacy iOS */
 }
+
+/* space-mono-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../webfonts/space-mono-v13-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}

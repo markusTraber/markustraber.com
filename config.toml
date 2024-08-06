@@ -2,9 +2,8 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Markus Traber"
-theme = "hugo-story"
-
+title = "markus_traber"
+theme = ["hugo-cloak-email", "hugo-story"]
 
 ## -----------------------------------------------
 ## Hugo Built-in Features

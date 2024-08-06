@@ -4,9 +4,12 @@
       {{ with .title }}<h1 class="title-logo">{{ . }}</h1>{{ end }}
       {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
       {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+      {{ partial "tools/cloakmail.html" (dict "address" "hi@markustraber.com" "protocol" "mailto" "class" "button small icon regular fa-comments" "display" "Discuss your project with me") }}
+      {{ with .contactIcons }}<p>{{ . | safeHTML }}</p>{{ end }}
       {{ with .button }}<ul class="actions stacked">
           <li><a href="{{ .link }}" class="button primary large wide smooth-scroll-middle">{{ .label }}</a></li>
       </ul>{{ end }}
+      
   </div>
   {{ with .image }}<div class="image">
       <img src="{{.}}" alt="Hugo Story" />

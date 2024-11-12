@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>markus_traber</title><link>/</link><description>Recent content on markus_traber</description><generator>Hugo</generator><language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Imprint / Impressum</title><link>/imprint/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/imprint/</guid><description>&lt;h1 id="impressum">Impressum&lt;/h1>
-&lt;p>&lt;strong>Angaben gemäß § 5 des Telemediengesetzes​&lt;/strong>&lt;br>
-&lt;strong>Name des Anbieters&lt;/strong>&lt;br>
-Markus Traber&lt;br>
-Schönhauser Allee 49&lt;br>
+&lt;p>&lt;strong>Angaben gemäß § 5 des Telemediengesetzes​&lt;/strong>
+&lt;strong>Name des Anbieters&lt;/strong>
+Markus Traber
+Schönhauser Allee 49
 10437 Berlin&lt;/p>
-&lt;p>&lt;strong>Kontaktdaten&lt;/strong>&lt;br>
+&lt;p>&lt;strong>Kontaktdaten&lt;/strong>
 E-Mail: 
 &lt;style>
- #span-c57aa65b.cloaked-e-mail:before {
+ #span-ce4a07fa.cloaked-e-mail:before {
  content:attr(data-domain) "\0040" attr(data-user);
  unicode-bidi:bidi-override;
  direction:rtl;
  }
 &lt;/style>
-&amp;#32;&lt;span class="cloaked-e-mail" data-user="ih" data-domain="moc.rebartsukram" id="span-c57aa65b">&lt;/span>&amp;#32;
+&amp;#32;&lt;span class="cloaked-e-mail" data-user="ih" data-domain="moc.rebartsukram" id="span-ce4a07fa">&lt;/span>&amp;#32;
 
-&lt;script id="script-c57aa65b">
- var scriptTag = document.getElementById("script-c57aa65b");
+&lt;script id="script-ce4a07fa">
+ var scriptTag = document.getElementById("script-ce4a07fa");
  var link = document.createElement("a");
  var address = "ih".split('').reverse().join('') + "@" + "moc.rebartsukram".split('').reverse().join('');
  link.href = "mailto" + ":" + address;
@@ -25,27 +25,27 @@ E-Mail:
  scriptTag.parentElement.removeChild(scriptTag.previousElementSibling)
 &lt;/script>
 
-&lt;br>
+
 Internetseite: &lt;a href="https://markustraber.com">https://markustraber.com&lt;/a>&lt;/p>
-&lt;p>&lt;strong>Datenschutz&lt;/strong>&lt;br>
+&lt;p>&lt;strong>Datenschutz&lt;/strong>
 Unsere Datenschutzhinweise finden Sie unter: &lt;a href="/privacy">https://markustraber.com/privacy&lt;/a>&lt;/p></description></item><item><title>Privacy / Datenschutzerklärung</title><link>/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/privacy/</guid><description>&lt;h1 id="datenschutzerklärung">Datenschutzerklärung&lt;/h1>
 &lt;p>Im Folgenden möchten wir dich aufklären, wie deine Daten von uns verarbeitet werden.&lt;/p>
-&lt;p>&lt;strong>Verantwortlich im Sinne der DSGVO ist:&lt;/strong>&lt;br>
-Markus Traber&lt;br>
-Schönhauser Allee 49&lt;br>
-10437 Berlin&lt;br>
+&lt;p>&lt;strong>Verantwortlich im Sinne der DSGVO ist:&lt;/strong>
+Markus Traber
+Schönhauser Allee 49
+10437 Berlin
 
 &lt;style>
- #span-d175c5e9.cloaked-e-mail:before {
+ #span-bded8b0e.cloaked-e-mail:before {
  content:attr(data-domain) "\0040" attr(data-user);
  unicode-bidi:bidi-override;
  direction:rtl;
  }
 &lt;/style>
-&amp;#32;&lt;span class="cloaked-e-mail" data-user="ih" data-domain="moc.rebartsukram" id="span-d175c5e9">&lt;/span>&amp;#32;
+&amp;#32;&lt;span class="cloaked-e-mail" data-user="ih" data-domain="moc.rebartsukram" id="span-bded8b0e">&lt;/span>&amp;#32;
 
-&lt;script id="script-d175c5e9">
- var scriptTag = document.getElementById("script-d175c5e9");
+&lt;script id="script-bded8b0e">
+ var scriptTag = document.getElementById("script-bded8b0e");
  var link = document.createElement("a");
  var address = "ih".split('').reverse().join('') + "@" + "moc.rebartsukram".split('').reverse().join('');
  link.href = "mailto" + ":" + address;

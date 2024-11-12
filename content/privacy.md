@@ -8,16 +8,16 @@ layout: "single-markdown"
 
 Im Folgenden möchten wir dich aufklären, wie deine Daten von uns verarbeitet werden.
 
-**Verantwortlich im Sinne der DSGVO ist:**
-Markus Traber
-Adelberostraße 14
-36100 Petersberg
+**Verantwortlich im Sinne der DSGVO ist:** \
+Markus Traber \
+Adelberostraße 14 \
+36100 Petersberg \
 {{< cloakemail address="hi@markustraber.com" >}}
 
 Solltest du per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten von uns gespeichert, um dein Anliegen zu bearbeiten.
 
-Zu den verarbeiteten Daten zählen:
-Dein Name
+Zu den verarbeiteten Daten zählen: \
+Dein Name \
 Deine E-Mail-Adresse
 
 Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich ist oder die Verarbeitung einschränken, falls gesetzliche Aufbewahrungspflichten bestehen.
@@ -42,9 +42,9 @@ Es erfolgt kein Tracking und wir haben auf diese Daten keinen direkten Zugriff, 
 
 Wir setzen für die Zurverfügungstellung unserer Website folgenden Hoster ein:
 
-GitHub Inc.
-88 Colin P Kelly Jr St
-San Francisco, CA 94107
+GitHub Inc. \
+88 Colin P Kelly Jr St \
+San Francisco, CA 94107 \
 United States
 
 Dieser ist Empfänger deiner personenbezogenen Daten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO, selbst keinen Server in unseren Räumlichkeiten vorhalten zu müssen. Serverstandort ist USA.

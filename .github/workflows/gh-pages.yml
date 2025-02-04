@@ -40,4 +40,5 @@ jobs:
           port: 21
           protocol: ftps
           local-dir: ./public/
+          server-dir: hugo/
           timeout: 60000
